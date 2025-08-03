@@ -7,7 +7,7 @@ Me especializo en **DevOps**, **RPA**, **Cloud Native**, **Arquitectura de Softw
 ---
 
 ### 🔭 Actualmente estoy trabajando en...
-- 👨‍💼 **Associate Director** en **Kyndryl**, liderando la estandarización de prácticas **DevOps** en Latinoamérica y ejecutando proyectos de alto impacto en **automatización**, **IA**, **RPA**, **seguridad** y **cloud**.
+- 👨‍💼 **Associate Director** en **Kyndryl**, liderando la estandarización de prácticas **DevOps** en Latinoamérica y ejecutando proyectos de alto impacto en **Modernización de Aplicaciones**, **automatización**, **IA**, **RPA**, **seguridad**, **cloud**, entre otros.
 - 👨‍🏫 Docente universitario en:
   - **Universidad de Lima** – *DevOps, Gestión de Servicios de TI e Ingeniería de Software (Pregrado)*
   - **Universidad Privada del Norte** – *Agilidad Empresarial (Posgrado)*
